@@ -2,7 +2,21 @@
 This is where i documented my first project while learning Data Analysis with The Incubator Hub.
 
 ### Project Title: E Commerce Sales Analysis
----
+
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis 
+
+Data Visualization
+
 
 ### Project Overview
 ---
@@ -44,5 +58,9 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 
-### Dta Visualization
+### Data Visualization
 cliick and drag your data here
+
+
+
+
