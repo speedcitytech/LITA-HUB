@@ -1,7 +1,7 @@
 # LITA-HUB
 This is where i documented my first project while learning Data Analysis with The Incubator Hub.
 
-### Project Title: E Commerce Sales Analysis
+### Project Title: E Commerce Sales and Regional Revenue Analysis 
 
 [Project Overview](#project-overview)
 
@@ -14,6 +14,8 @@ This is where i documented my first project while learning Data Analysis with Th
 [Exploratory Data Analysis](exploratory-dataanalysis)
 
 [Data Analysis](data-analysis) 
+
+[Key Insights](key-insight)
 
 [Data Visualization](data-visualization)
 
@@ -50,8 +52,24 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - which product are top sellers
 - what are the products on peak sales?
 
-### Data Analysis 
+### Data Analysis Overview
 ---
+Data Overview:
+Regional Revenue Data: The dataset provides total revenue figures for each region, as follows:
+North Central: 6,489,332,640
+North East: 18,641,963,520
+North West: 9,386,346,720
+South East: 10,457,403,240
+South South: 12,179,415,120
+South West: 15,877,529,040
+Grand Total: 73,031,990,280
+
+### Key Insights
+---
+The North East region contributes the highest revenue at 18,641,963,520.
+The South West region follows, with a significant contribution of 15,877,529,040.
+The North Central region has the lowest revenue contribution at 6,489,332,640.
+
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
 ---SQL
@@ -59,6 +77,8 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 
 ### Data Visualization
+---
+The visualizations folder features graphical representations of revenue data, such as bar charts and pie charts, to facilitate easier understanding of revenue distribution among regions.
 					
 Row Labels	Sum of Revenue 			Row Labels	Sum of Units Sold 
 North Central	6,489,332,640			North Central	18,635
