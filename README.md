@@ -59,7 +59,20 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 
 ### Data Visualization
-cliick and drag your data here
+					
+Row Labels	Sum of Revenue 			Row Labels	Sum of Units Sold 
+North Central	6,489,332,640			North Central	18,635
+North East	18,641,963,520			North East	70,401
+North West	9,386,346,720			North West	36,040
+South East	10,457,403,240			South East	41,576
+South South	12,179,415,120			South South	43,785
+South West	15,877,529,040			South West	59,228
+Grand Total	73,031,990,280			Grand Total	269,665
+
+![image](https://github.com/user-attachments/assets/17c219cc-9d8a-4087-94a8-5a32c3ec8397)
+
+![image](https://github.com/user-attachments/assets/2babba32-e1d3-46e1-9ebd-f75a029a4cbf)
+
 
 
 
