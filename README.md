@@ -1,7 +1,7 @@
 # LITA-HUB
 This is where i documented my first project while learning Data Analysis with The Incubator Hub.
 
-### Project Title: E Commerce Sales and Regional Revenue Analysis 
+### Project Title: E Commerce Sales Analysis 
 
 [Project Overview](#project-overview)
 
